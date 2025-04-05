@@ -1,0 +1,12 @@
+div {
+	background-color: bisque;
+	color: orange;
+	font-size: 32px;
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 
+		-1px -1px 0 brown,
+		 1px -1px 0 brown,
+		-1px  1px 0 brown,
+		 1px  1px 0 brown;
+}
